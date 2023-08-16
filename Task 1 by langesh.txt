@@ -1,5 +1,7 @@
 Question . what is my name?
 Answer . Langesh 
+Question . what is my age?
+Answer . 22 
 
 
 Console.log("hello");
